@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FormSolution</title>
+</head>
+<body>
+	<h1>Register</h1>
+	<form>
+		<label for="FN">First Name:</label>
+		<input id="FN" type="text" placeholder="John" name="FirstName" required>
+
+		<label for="LN">Last Name:</label>
+		<input id= "LN" type="text" placeholder="Smith" name="LastName" required>
+
+		<div>
+		
+		<label>Male</label>
+		<input type="radio" name="Gender" value="Male">
+		<label>Female</label>
+		<input type="radio" name="Gender" value="Female">
+		<label>Other</label>
+		<input type="radio" name="Gender" value="other">
+		
+		</div>
+
+		<label>Email:<input type="email" placeholder="your email" name="email" required="email"></label>
+		
+
+		<label for="password">
+			Password:<input id="password" type="password" placeholder="password" name="pass_word" required title=" password should be between 5 to 10 chars" pattern=".{5,10}" >
+		</label>
+		
+
+		<div>
+		<label>Birthday:	
+		<select name="Month">
+			<option>Jan</option>
+			<option>feb</option>
+			<option>March</option>
+		</select>
+
+		<select name="Day">
+			<option>1</option>
+			<option>2</option>
+			<option>3</option>
+		</select>
+
+		<select name="Year">
+			<option>1993</option>
+			<option>1995</option>
+			<option>1997</option>
+		</select>
+		</label>
+		</div>
+
+		<div>
+		<label>I agree to the terms and condition</label>
+		<input type="checkbox" name=""><br>
+		</div>
+
+		<button>Submit</button>
+
+
+	</form>
+
+
+</body>
+</html>

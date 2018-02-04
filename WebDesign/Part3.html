@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>HTML5</title>
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    </script>
+    <![endif]-->
+    <style>
+        body {
+            font-family: Verdana,sans-serif;
+            font-size: 0.9em;
+        }
+
+        header, footer {
+            padding: 10px;
+            color: white;
+            background-color: blue;
+        }
+
+        section {
+            margin: 5px;
+            padding: 10px;
+            background-color: lightblue;
+        }
+
+        article {
+            margin: 5px;
+            padding: 10px;
+            background-color: grey;
+        }
+
+        nav ul {
+            padding: 0;
+            background-color: white;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CarWale</h1>
+</header>
+
+<nav>
+    <ul>
+        <li>Home</li>
+        <li>Rentals</li>
+        <li>Help</li>
+    </ul>
+</nav>
+
+<form>
+        <p>How well do you rate the information on this site</br>
+    (where 1 is very poor, and 5 is very good)?</p>
+
+    <div><input type="radio" name = "rdio" id="1" <label for="male">1&nbsp&nbspVery poor</label></div>
+    <div><input type="radio" name = "rdio"  id="2" <label for="male">2&nbsp&nbsppoor</label></div>
+    <div><input type="radio" name = "rdio"  id="3" <label for="male">3&nbsp&nbspAverage</label></div>
+    <div><input type="radio" name = "rdio"  id="4" <label for="male">4&nbsp&nbspGood</label></div>
+    <div><input type="radio" name = "rdio"  id="5" <label for="male">5&nbsp&nbspVeryGood</label></div>
+
+    <div><button type="button" onclick="alert('Vote recieved')">Vote Now!</button></div>
+    </form>
+
+
+<footer>
+    <p>&copy; 2018 Carwale. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
