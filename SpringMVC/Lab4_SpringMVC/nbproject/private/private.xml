@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/controller/MessageController.java</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/web/WEB-INF/jsp/userview.jsp</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/bean/Message.java</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/controller/UserController.java</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/dao/UserDAO.java</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/dao/MessageDAO.java</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/web/WEB-INF/jsp/messageview.jsp</file>
+            <file>file:/C:/Users/krapa/Documents/AED%20Course%20repo/Projects/Lab4_SpringMVC/src/java/com/me/bean/User.java</file>
+        </group>
+    </open-files>
+</project-private>
